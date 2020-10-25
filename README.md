@@ -44,5 +44,5 @@ The canonical website is a youtube video https://www.youtube.com/watch?v=NRagrTU
 - [20:41](https://youtu.be/NRagrTU_v8o?t=1241) - Creating the Hero [branch 2041-2609/creating-the-hero](https://github.com/simkimsia/learn-your-first-tailwind-website/tree/2041-2609/creating-the-hero)
 - [codepen final outcome](https://codepen.io/kimstacks/pen/oNLZveX?editors=1000)
 
-![image-20201025155613793](README.assets/image-20201025155613793.png)
+![image-20201025203730301](README.assets/image-20201025203730301.png)
 
