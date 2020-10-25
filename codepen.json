@@ -1,0 +1,8 @@
+{
+  "title": "Learn \"Your First Tailwind Website\" | 01:52-03:00 | Starting a Codepen",
+  "description": "Canonical Video website: https://www.youtube.com/watch?v=NRagrTU_v8o&feature=emb_logo\nGithub branch:",
+  "private": false,
+  "layout": "left",
+  "css_pre_processor": "none",
+  "css_external": "https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/1.9.4/tailwind.min.css"
+}
