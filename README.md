@@ -55,10 +55,15 @@ The canonical website is a youtube video https://www.youtube.com/watch?v=NRagrTU
 
 ### Lesson 6 - Creating the features
 
+- Credits for images
+  - Photo by [topcools tee](https://unsplash.com/@topcools?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/furano?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  - Photo by [Pavita Jangprasit](https://unsplash.com/@pavita?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/tomamu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  - Photo by [Michael Kilcoyne](https://unsplash.com/@mikekilcoyne?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/tomamu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  - Photo by [Erica Poyauan](https://unsplash.com/@thegirlwiththemujihat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/tomamu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 - [30:51](https://youtu.be/NRagrTU_v8o?t=1851) - Creating the Features [branch 3051-3611/creating-the-features](https://github.com/simkimsia/learn-your-first-tailwind-website/tree/3051-3611/creating-the-features)
 - [codepen final outcome](https://codepen.io/kimstacks/pen/oNLZNww?editors=1000)
 
-![image-20201025213641028](README.assets/image-20201025213641028.png)
+![image-20201025231017810](README.assets/image-20201025231017810.png)
 
 ### Lesson 7 - Creating the footer
 
