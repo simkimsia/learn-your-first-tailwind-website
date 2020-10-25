@@ -68,7 +68,7 @@ The canonical website is a youtube video https://www.youtube.com/watch?v=NRagrTU
 ### Lesson 7 - Creating the footer
 
 - [36:11](https://youtu.be/NRagrTU_v8o?t=2171) - Creating the Footer [branch 3611/creating-the-footer](https://github.com/simkimsia/learn-your-first-tailwind-website/tree/3611/creating-the-footer)
-- [codepen final outcome](https://codepen.io/kimstacks/pen/wvWJwNm?editors=1000)
+- [codepen final outcome](https://codepen.io/kimstacks/pen/ExyWabE?editors=1000)
 
-![image-20201025213641028](README.assets/image-20201025213641028.png)
+![image-20201025232955514](README.assets/image-20201025232955514.png)
 
