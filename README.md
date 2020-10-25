@@ -12,9 +12,9 @@ The canonical website is a youtube video https://www.youtube.com/watch?v=NRagrTU
 - [7:47](https://youtu.be/NRagrTU_v8o?t=467) - Starting our Landing Page
 - [8:40](https://youtu.be/NRagrTU_v8o?t=520) - Creating the Header [branch 0840-2041/creating-the-header](https://github.com/simkimsia/learn-your-first-tailwind-website/tree/0840-2041/creating-the-header)
 - [20:41](https://youtu.be/NRagrTU_v8o?t=1241) - Creating the Hero [branch 2041-2609/creating-the-hero](https://github.com/simkimsia/learn-your-first-tailwind-website/tree/2041-2609/creating-the-hero)
-- [26:09](https://youtu.be/NRagrTU_v8o?t=1569) - Responsive Styles [branch 2609-3051/responsive-styles]()
-- [30:51](https://youtu.be/NRagrTU_v8o?t=1851) - Creating the Features [branch 3051-3611/starting-a-codepen]()
-- [36:11](https://youtu.be/NRagrTU_v8o?t=2171) - Creating the Footer [branch 3611/starting-a-codepen]()
+- [26:09](https://youtu.be/NRagrTU_v8o?t=1569) - Responsive Styles [branch 2609-3051/responsive-styles](https://github.com/simkimsia/learn-your-first-tailwind-website/tree/2609-3051/responsive-styles)
+- [30:51](https://youtu.be/NRagrTU_v8o?t=1851) - Creating the Features [branch 3051-3611/creating-the-features](https://github.com/simkimsia/learn-your-first-tailwind-website/tree/3051-3611/creating-the-features)
+- [36:11](https://youtu.be/NRagrTU_v8o?t=2171) - Creating the Footer [branch 3611/creating-the-footer](https://github.com/simkimsia/learn-your-first-tailwind-website/tree/3611/creating-the-footer)
 
 ## Lessons
 
@@ -49,6 +49,20 @@ The canonical website is a youtube video https://www.youtube.com/watch?v=NRagrTU
 ### Lesson 5 - Responsive Styles
 
 - [26:09](https://youtu.be/NRagrTU_v8o?t=1569) - Responsive Styles [branch 2609-3051/responsive-styles](https://github.com/simkimsia/learn-your-first-tailwind-website/tree/2609-3051/responsive-styles)
+- [codepen final outcome](https://codepen.io/kimstacks/pen/wvWJwNm?editors=1000)
+
+![image-20201025213641028](README.assets/image-20201025213641028.png)
+
+### Lesson 6 - Creating the features
+
+- [30:51](https://youtu.be/NRagrTU_v8o?t=1851) - Creating the Features [branch 3051-3611/creating-the-features](https://github.com/simkimsia/learn-your-first-tailwind-website/tree/3051-3611/creating-the-features)
+- [codepen final outcome](https://codepen.io/kimstacks/pen/oNLZNww?editors=1000)
+
+![image-20201025213641028](README.assets/image-20201025213641028.png)
+
+### Lesson 7 - Creating the footer
+
+- [36:11](https://youtu.be/NRagrTU_v8o?t=2171) - Creating the Footer [branch 3611/creating-the-footer](https://github.com/simkimsia/learn-your-first-tailwind-website/tree/3611/creating-the-footer)
 - [codepen final outcome](https://codepen.io/kimstacks/pen/wvWJwNm?editors=1000)
 
 ![image-20201025213641028](README.assets/image-20201025213641028.png)
